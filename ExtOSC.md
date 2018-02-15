@@ -3,6 +3,7 @@ title: OSC module
 permalink: /audiostack/OSC/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
 
 OSC (Open Sound Control) is a very handy and flexible network protocol. OSC messages consist of an address pattern, a type and arguments. OSC address pattern are very similar to Audiostack addresses, so that managing Audiostack through OSC is quite easy.
 

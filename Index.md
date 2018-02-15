@@ -3,6 +3,8 @@ title: User Documentation
 permalink: /audiostack/index/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 Introduction
 -----
 *Aspic Audiostack* is a software toolkit providing features to easily create rich audio applications. The toolkit is composed of core features and extensions (see [dedicated section](404)).

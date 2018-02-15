@@ -3,6 +3,8 @@ title: Unity Collaborative Sample
 permalink: /audiostack/UnityCollaborativeSample/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 Creating a collaborative application will have us facing new challenges. We will cover some of theses challenges before starting our tutorial.
 
 ## Prerequisites

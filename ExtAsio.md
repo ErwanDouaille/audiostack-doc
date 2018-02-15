@@ -3,6 +3,8 @@ title: Asio module
 permalink: /audiostack/Asio/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 ASIO (Audio Stream Input/Output) is a computer sound card driver protocol. It enables to address inputs and outputs from many professional sound card.
 
 > Only one driver can be used simultaneously in one Audiostack instance.

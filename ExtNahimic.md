@@ -3,6 +3,8 @@ title: Nahimic Binaural module
 permalink: /audiostack/Nahimic/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 Aspic Audiostack Nahimic&trade; Binaural module provides binaural spatialization algorithms developed by A-Volute&trade;.
 
 ## Effects

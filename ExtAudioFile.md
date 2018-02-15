@@ -3,6 +3,8 @@ title: Audio file module
 permalink: /audiostack/AudioFile/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 Aspic Audiostack Audio file module enables applications to read audio file on your drive. The only file format supported is .wav. More extension will be supported soon. Please contact us for more details.
 
 ## Inputs

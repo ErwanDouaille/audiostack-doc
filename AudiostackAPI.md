@@ -3,6 +3,8 @@ title: C++ API Documentation
 permalink: /audiostack/AudiostackAPI/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 Getting started
 -----
 During the installation process, several directories were created at the installation location.

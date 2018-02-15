@@ -3,6 +3,8 @@ title: Core module
 permalink: /audiostack/Core/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 Aspic Audiostack Core module offers main features of the library such as OpenAL driver interfacing or regular audio effects.
 
 ## Effects

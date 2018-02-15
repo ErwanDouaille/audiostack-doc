@@ -3,6 +3,8 @@ title: Unity Basic Sample
 permalink: /audiostack/UnityBasicSample/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 The aim of this section is to construct step by step a simple Unity3d application using Aspic Audiostack.
 
 ### Setting up the plugin 

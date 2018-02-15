@@ -3,6 +3,8 @@ title: Server Documentation
 permalink: /audiostack/Server/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
+
 **Work in progress**
 
 Introduction

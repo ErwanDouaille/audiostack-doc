@@ -3,6 +3,7 @@ title: VBAP module
 permalink: /audiostack/VBAP/
 ---
 
+{% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} {% icon fa-exclamation-triangle  %} WARNING : Audiostack documentation is not up to date anymore. We are working on it to provide you a nice and simple new doc as soon as possible.
 
 Aspic Audiostack VBAP module provides effects for spatialization over multiple speaker. The effects of this module will apply the appriate gain on all speakers to perceive sound from the correct direction.
 
