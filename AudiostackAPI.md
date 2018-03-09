@@ -66,7 +66,7 @@ int main(){
 	AudiostackContext context;
 	context.setLicenseKeyFromFile("LICENSE_FILE.aslc");
 	
-	int input=0
+	int input=0;
 	int output=1;
 	context.createInput(input,HelloInput);
 	context.createOutput(output,OpenALOutput);
